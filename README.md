@@ -13,6 +13,6 @@
 
 ################ Demo Of The site ##################
 
-Link of the demo 📢 https://mytop10animelistusingreactbyzero.netlify.app
+Link of the demo 📢 https://todolistappbyzero.netlify.app/
 
 Thank You For Visting This Repository ❤.
